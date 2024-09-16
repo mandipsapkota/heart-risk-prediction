@@ -1,2 +1,2 @@
 # heart-risk-prediction
-A heart rate prediction ml model made in python.
+A heart risk prediction ml model made in python.
