@@ -91,7 +91,3 @@ pip install numpy pandas scikit-learn
 ## Conclusion
 
 The model predicts heart disease based on patient data with good accuracy. This project demonstrates a basic application of Logistic Regression for binary classification.
-
----
-
-Feel free to adjust the details to better suit your project's specifics or to include additional instructions if necessary.
